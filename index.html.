@@ -1,1 +1,145 @@
 
+
+<!DOCTYPE html>
+
+<html lang="id">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Portofolio Akif</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            background: #f1f5f9;
+
+            margin: 0;
+
+            text-align: center;
+
+        }
+
+        header {
+
+            background: #1e3a8a;
+
+            color: white;
+
+            padding: 40px 15px;
+
+        }
+
+        .container {
+
+            padding: 25px;
+
+        }
+
+        .menu {
+
+            background: white;
+
+            padding: 25px;
+
+            margin: 20px auto;
+
+            max-width: 400px;
+
+            border-radius: 12px;
+
+            box-shadow: 0 3px 10px #ccc;
+
+        }
+
+        a {
+
+            display: inline-block;
+
+            background: #1e3a8a;
+
+            color: white;
+
+            padding: 12px 25px;
+
+            text-decoration: none;
+
+            border-radius: 6px;
+
+        }
+
+        footer {
+
+            background: #172554;
+
+            color: white;
+
+            padding: 15px;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>HALAMAN UTAMA</h1>
+
+    <h2>AKIF RIFKI LITARDO</h2>
+
+    <p>Website Portofolio Pribadi</p>
+
+</header>
+
+<div class="container">
+
+    <div class="menu">
+
+        <h3>1. Surat Lamaran Kerja</h3>
+
+        <p>Dokumen surat lamaran kerja saya.</p>
+
+        <a href="#">Lihat Surat Lamaran</a>
+
+    </div>
+
+    <div class="menu">
+
+        <h3>2. CV Website</h3>
+
+        <p>Curriculum Vitae dalam bentuk website.</p>
+
+        <a href="#">Lihat CV Website</a>
+
+    </div>
+
+    <div class="menu">
+
+        <h3>3. CV PPT</h3>
+
+        <p>Curriculum Vitae dalam bentuk PowerPoint.</p>
+
+        <a href="#">Lihat CV PPT</a>
+
+    </div>
+
+</div>
+
+<footer>
+
+    <p>&copy; 2026 Akif Rifki Litardo</p>
+
+</footer>
+
+</body>
+
+</html>
